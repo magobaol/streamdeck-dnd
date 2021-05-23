@@ -1,10 +1,6 @@
-# DND Toggler
+# DND Toggler plugin for Stream Deck
 
 Plugin for [Stream Deck](https://www.elgato.com/gaming/stream-deck) written in Swift (macOS only).
-
-Implementation is based on the template [streamdeck-template-swift](https://github.com/JarnoLeConte/streamdeck-template-swift) by [Jarno Le Conté](https://github.com/JarnoLeConte).
-
-Core DND functionalities are from [Sindre Sorhus](https://github.com/sindresorhus) in his NodeJS package [do-not-disturb](https://github.com/sindresorhus/do-not-disturb).
 
 # Description
 
@@ -37,3 +33,11 @@ I'm completely new to XCode, Swift and StreamDeck plugins development, but I fou
 # Source
 If you want to compile the plugin by yourself, just clone the repo and open the project with XCode.
 To build it for final release, download the [DistributionTool from Elgato](https://developer.elgato.com/documentation/stream-deck/sdk/exporting-your-plugin/) and place it under a `Release` folder at the same level of `Sources`.
+
+# Credits
+
+Implementation is based on the template [streamdeck-template-swift](https://github.com/JarnoLeConte/streamdeck-template-swift) by [Jarno Le Conté](https://github.com/JarnoLeConte).
+
+Core DND functionalities are from [Sindre Sorhus](https://github.com/sindresorhus) in his NodeJS package [do-not-disturb](https://github.com/sindresorhus/do-not-disturb).
+
+Icons by [Font Awesome](https://fontawesome.com/license)
